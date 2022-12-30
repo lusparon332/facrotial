@@ -1,0 +1,16 @@
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Debug\net5.0\Factorial.exe
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Debug\net5.0\Factorial.deps.json
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.json
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.dev.json
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Debug\net5.0\Factorial.dll
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Debug\net5.0\ref\Factorial.dll
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Debug\net5.0\Factorial.pdb
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.csprojAssemblyReference.cache
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.dll
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\ref\Factorial.dll
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.pdb
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Debug\net5.0\Factorial.genruntimeconfig.cache
