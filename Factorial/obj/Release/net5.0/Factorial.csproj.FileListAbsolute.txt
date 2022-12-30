@@ -5,7 +5,6 @@ C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Release\net5.0\Factorial.ru
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Release\net5.0\Factorial.dll
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Release\net5.0\ref\Factorial.dll
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\bin\Release\net5.0\Factorial.pdb
-C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.csprojAssemblyReference.cache
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.AssemblyInfoInputs.cache
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.dl
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\ref\Factorial.dll
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.pdb
 C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.genruntimeconfig.cache
+C:\Users\luspa\Desktop\seven\Factorial\Factorial\obj\Release\net5.0\Factorial.csprojAssemblyReference.cache

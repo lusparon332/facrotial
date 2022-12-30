@@ -2,14 +2,14 @@
 
 namespace Factorial
 {
-    class Program
+    public class Fact
     {
         static void Main(string[] args)
         {
             int n = 10;
             Console.WriteLine($"Factorial of {n} is {factorial(n)}");
         }
-        static int factorial(int n)
+        public static int factorial(int n)
         {
             if (n == 0 || n == 1)
                 return n;

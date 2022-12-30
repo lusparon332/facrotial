@@ -1,0 +1,5 @@
+C:\Users\luspa\Desktop\seven\Factorial\XUnitTestProject1\obj\Release\net5.0\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\luspa\Desktop\seven\Factorial\XUnitTestProject1\obj\Release\net5.0\XUnitTestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luspa\Desktop\seven\Factorial\XUnitTestProject1\obj\Release\net5.0\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\luspa\Desktop\seven\Factorial\XUnitTestProject1\obj\Release\net5.0\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\luspa\Desktop\seven\Factorial\XUnitTestProject1\obj\Release\net5.0\XUnitTestProject1.csproj.CoreCompileInputs.cache
